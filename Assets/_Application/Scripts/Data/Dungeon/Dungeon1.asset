@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54c4798f7c7e4469c952b74b5ea6bea2, type: 3}
+  m_Name: Dungeon1
+  m_EditorClassIdentifier: 
+  DungeonName: Dungeon1
+  EnemyDataList:
+  - {fileID: 11400000, guid: 6bac0536b9b4b4ef6ac0893a1f4bbcc0, type: 2}
+  - {fileID: 11400000, guid: 6bac0536b9b4b4ef6ac0893a1f4bbcc0, type: 2}
+  - {fileID: 11400000, guid: 6bac0536b9b4b4ef6ac0893a1f4bbcc0, type: 2}
+  - {fileID: 11400000, guid: 6bac0536b9b4b4ef6ac0893a1f4bbcc0, type: 2}
+  - {fileID: 11400000, guid: e193325794c6c4d35955238ac5cceb28, type: 2}
+  BossData: {fileID: 11400000, guid: e193325794c6c4d35955238ac5cceb28, type: 2}

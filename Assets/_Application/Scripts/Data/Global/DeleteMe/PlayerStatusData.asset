@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 569dcda6435644ca29e3637510e47c55, type: 3}
+  m_Name: PlayerStatusData
+  m_EditorClassIdentifier: 
+  CharacterName: "\u52C7\u8005\u30BF\u30AB\u30AA"
+  Level: 5
+  Experience: 0
+  Gold: 30
+  MaxHealth: 100
+  Health: 100
+  Attack: 1
+  Defence: 0
+  Speed: 1
