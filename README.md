@@ -1,6 +1,6 @@
 # 202505_PortfolioUnitySimpleRPG
 Unityプロジェクトで実装した、設計ポートフォリオ用のシンプルなRPGミニゲームです。
-以下の画像はゲームプレイ中のスクリーンショットです：
+以下の画像はゲームプレイ中のスクリーンショットです
 ![Image](https://github.com/user-attachments/assets/0a48b112-3f79-446f-a02c-0072abb6405f)
 
 
@@ -65,7 +65,7 @@ Unityプロジェクトで実装した、設計ポートフォリオ用のシン
 
 ## 🗂 プロジェクト構成
 
-```
+```Projectフォルダ概要
 _Application : プロジェクト専用のアセットを格納。ファイルタイプごとに分けて管理
 └Art : デザインリソースを格納
 └Fonts : フォントファイルを格納
@@ -80,8 +80,7 @@ Packages
 Plugins
 ```
 
-```
-※１ Scriptフォルダ構成
+```Scriptフォルダ構成
 Scripts
 └Battle : UIに直接関係しない戦闘機能を格納
 └Core : ゲームを動かすもとになる基礎機能を格納。ステートパターンの基礎機能やRuntimeInitializeOnLoad機能を用いてどのシーンでもCoreSystemシーンを読み込む機能を格納
