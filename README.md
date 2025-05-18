@@ -65,7 +65,7 @@ Unityプロジェクトで実装した、設計ポートフォリオ用のシン
 
 ## 🗂 プロジェクト構成
 
-
+```
 _Application : プロジェクト専用のアセットを格納。ファイルタイプごとに分けて管理
 └Art : デザインリソースを格納
 └Fonts : フォントファイルを格納
@@ -78,8 +78,9 @@ Utils : 他プロジェクトに流用可能な汎用的な機能を格納。機
 └GenerateSceneEnum : 登録されているSceneをenumファイルとして自動出力する
 Packages
 Plugins
+```
 
-
+```
 ※１ Scriptフォルダ構成
 Scripts
 └Battle : UIに直接関係しない戦闘機能を格納
@@ -88,6 +89,7 @@ Scripts
 └Effect : 演出にあたる機能を管理。ダメージが発生した際のエフェクト機能を格納
 └Enum : Enumファイルを格納
 └UI : UI機能を格納。スクリーン単位でフォルダを分けて管理。深い階層はView,Presenter,ViewModel,Modelに分けて管理。ViewModel,ModelはMonoBehaviourを継承していたらViewModel,継承していなければModelで分類
+```
 
 ## ✏️ 備考
 
